@@ -64,3 +64,21 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
 Además: XAMPP, UML, Kanban y Scrum.
+
+## Certificaciones y cursos
+
+Cursos completados en programas de formación de mi universidad. Las insignias de AWS Academy acreditan haber completado el curso (*Training Badge*) y no son un examen de certificación como AWS Cloud Practitioner.
+
+| Curso | Emisor | Fecha |
+|---|---|---|
+| AWS Academy Graduate - Cloud Foundations | Amazon Web Services Training and Certification | ago 2025 |
+| AWS Academy Graduate - Data Engineering | Amazon Web Services Training and Certification | ago 2025 |
+| AWS Academy Graduate - Generative AI Foundations | Amazon Web Services Training and Certification | oct 2025 |
+| AWS Academy Graduate - Machine Learning for Natural Language Processing | Amazon Web Services Training and Certification | nov 2025 |
+| Ethical Hacker | Cisco Networking Academy | may 2026 |
+| Introduction to Cybersecurity | Cisco Networking Academy | abr 2026 |
+| Linux Unhatched | Cisco Networking Academy | mar 2026 |
+| Introduction to IoT | Cisco Networking Academy | nov 2025 |
+| Partner: JavaScript Essentials 1 (JSE) | Cisco Networking Academy | dic 2023 |
+
+Insignias verificables: [Credly](TU_URL_DE_CREDLY)
