@@ -81,4 +81,4 @@ Cursos completados en programas de formación de mi universidad. Las insignias d
 | Introduction to IoT | Cisco Networking Academy | nov 2025 |
 | Partner: JavaScript Essentials 1 (JSE) | Cisco Networking Academy | dic 2023 |
 
-Insignias verificables: [Credly](TU_URL_DE_CREDLY)
+Insignias verificables: [Credly]([TU_URL_DE_CREDLY](https://www.credly.com/users/diego-castro.55aa00eb))
